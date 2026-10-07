@@ -45,8 +45,8 @@ Every role also sees its own personal totals on the dashboard. Admins cannot del
 ### 1. Install
 
 ```bash
-git clone https://github.com/YounisAyoubParray/FinanceTracker-RBAC-Backend.git
-cd FinanceTracker-RBAC-Backend
+git clone https://github.com/YounisAyoubParray/FinanceTracker.git
+cd FinanceTracker
 npm install
 ```
 
